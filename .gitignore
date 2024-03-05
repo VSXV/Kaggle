@@ -1,0 +1,5 @@
+# data sets
+*.csv
+*/csv_files
+*/parquet_files
+.DS_Store
